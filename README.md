@@ -1,4 +1,4 @@
-# ThermalLATP - Thermal Analysis for Laser-Assisted Tape Placement
+# Thermal LATP - Thermal Analysis for Laser-Assisted Tape Placement
 
 CalculiX-based thermal analysis tool for automated fiber placement processes.
 
